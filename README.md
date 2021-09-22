@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi, there :wave:
 
-<!--
-**zhenying2/zhenying2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://user-images.githubusercontent.com/77235677/134374435-936e618f-a902-4e9a-a902-355998576f62.jpg" height="300"></p>
+<p align="center"><b>"Learn from Yesterday, Live for Today, Look to Tomorrow, Rest this Afternoon."</b>_snoopy</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+:question: **`Who am I`**
+I am a curious person. Therefore, I like to do activities like seeing, learning, going, eating new things.
+
+:fire: **`Important things in life`**
+For me, growth is a very important driving force in life, so I like to challenge even if I fail.
+
+
+:seedling: **`I'm currently learning`** React, Android
+
+<p>&nbsp;</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Anurag's github stats](https://github-stats.vercel.app/api?username=zhenying2)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenying2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!-- 🔭 I’m currently working on ... 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
