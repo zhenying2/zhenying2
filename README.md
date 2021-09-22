@@ -16,7 +16,7 @@ For me, growth is a very important driving force in life, so I like to challenge
 
 <p>&nbsp;</p>
 
-[![Anurag's github stats](https://github-stats.vercel.app/api?username=zhenying2)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
+[![Anurag's github stats](https://github-stats.vercel.app/api?username=zhenying2)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenying2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
