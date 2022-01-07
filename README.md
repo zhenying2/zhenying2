@@ -11,9 +11,13 @@ I am a curious person. Therefore, I like to do activities like seeing, learning,
 :fire: **`Important things in life`**
 For me, growth is a very important driving force in life, so I like to challenge even if I fail.
 
+⚡ **`I'm interested in`**
+<img height="24" align="center" src="https://img.shields.io/badge/Cloud(AWS, Azure, GCP)-3693F3?style=for-the-badge&logo=iCloud&logoColor=white">
+<img height="24" align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
-:seedling: **`I'm currently learning`** React, Android
-
+:seedling: **`I'm currently learning`**
+<img height="24" align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img height="24" align="center" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
 <p>&nbsp;</p>
 
 
